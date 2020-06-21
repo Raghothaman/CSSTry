@@ -1,0 +1,149 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+
+h1{
+  margin: 0;
+  padding-top: 130px;
+  font-size: 10em;
+  font-family: 'Cedarville Cursive', cursive;
+  color: #66BFBF;
+}
+
+h2{
+  margin: 0;
+  padding-top: 50px;
+  font-size: 3em;
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
+
+h3{
+  padding-top: 100px;
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2em;
+  text-align: left;
+}
+
+p{
+  text-align: left;
+  font-size: 40px;
+  line-height: 2;
+}
+
+hr{
+  width: 4%;
+  border-top: 15px dotted #EAF6F6;
+  border-bottom: none;
+  clear: both;
+  margin: 100px auto;
+}
+
+.Top{
+  background-color: #EAF6F6;
+  position: relative;
+}
+
+.Cloud1{
+  position: absolute;
+  height: 100px;
+  width: 300px;
+  top: 100px;
+  right: 700px;
+}
+
+.Cloud2{
+  position: absolute;
+  height: 100px;
+  width: 300px;
+  bottom: 700px;
+  left: 700px;
+}
+
+.Mountain{
+  height: 750px;
+  width: 1650px;
+}
+
+.Ragho{
+  height: 400px;
+  width: 400px;
+  margin-top: 100px;
+}
+
+.But-oneinside{
+  width: 40%;
+  right: 809.5px;
+  margin: auto;
+  padding-bottom: 50px;
+}
+
+.Mid-p{
+  width:30%;
+  font-size: 40px;
+  margin: 40px auto 100px auto;
+  line-height: 2;
+}
+
+.Product{
+  padding-top: 100px;
+  float: left;
+}
+
+.Football{
+  padding-top: 100px;
+  float: right;
+  height: 250px;
+  width: 250px;
+}
+
+.love{
+  text-align: center;
+}
+
+.Foot{
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+.Get{
+  padding-bottom: 50px;
+}
+.btn {
+  background: #66BFBF;
+  background-image: -webkit-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: -moz-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: -ms-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: -o-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: linear-gradient(to bottom, #66BFBF, #66BFBF);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 40px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #11999E;
+  background-image: -webkit-linear-gradient(top, #11999E, #EAF6F6);
+  background-image: -moz-linear-gradient(top, #11999E, #EAF6F6);
+  background-image: -ms-linear-gradient(top, #11999E, #EAF6F6);
+  background-image: -o-linear-gradient(top, #11999E, #EAF6F6);
+  background-image: linear-gradient(to bottom, #11999E, #EAF6F6);
+  text-decoration: none;
+}
+
+.Footer{
+  height: 300px;
+  background-color: #66BFBF;
+}
+
+.Footerh2{
+  color: #11999E;
+  font-size: 32px;
+}
